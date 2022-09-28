@@ -1,6 +1,7 @@
 # Weather App 🌦
 
 Weather app built in react, using OpenWeather API.
+Demo: https://weather-app-inbalbu.vercel.app/
 
 ## Features 💡
 
